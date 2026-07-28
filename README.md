@@ -18,13 +18,18 @@ alle gegevens blijven lokaal op het toestel zelf.
   (omzet, aantal consumpties, staafgrafiek, populairste dranken)
 - **Exporteren & delen**: opgemaakt Excel-bestand (.xlsx), dagrapporten via
   WhatsApp/mail (deelmenu van de telefoon)
-- **Nog te betalen**: met de knop "Later" blijft een rekening openstaan onder een
-  naam ("Tafel 3"), met een badge en een aparte lijst; de dagomzet blijft
-  ondertussen de volle omzet, met het openstaande bedrag als apart cijfer
-- **Doorsturen naar één centrale iPad**: telefoons koppelen met een code van
+- **Naam bij een rekening**: bij het afrekenen kan je optioneel een naam meegeven
+  ("Tafel 3"), met snelkeuze uit de laatst gebruikte namen
+- **Nog te betalen**: met de knop "Later" blijft een rekening openstaan onder die
+  naam, met een badge en een aparte lijst; de dagomzet blijft ondertussen de
+  volle omzet, met het openstaande bedrag als apart cijfer
+- **Doorsturen naar één centrale iPad**: toestellen koppelen met een code van
   6 tekens en sturen elke rekening door naar het tabblad "Bestellingen" van de
-  iPad: een overzicht per dag van alles wat binnenkwam, te filteren op "Alles",
-  "Nog te betalen" of "Betaald", waar één tik een rekening op betaald zet
+  iPad — ook de iPad zelf: een overzicht per dag van alles wat binnenkwam, te
+  filteren op "Alles", "Nog te betalen" of "Betaald", waar één tik een rekening
+  afpunt
+- **Op tablet-formaat** schaalt alles mee: bredere kolom, grotere tegels en
+  ruimere knoppen vanaf 700 px
 - **Back-up & terugzetten**: prijzen én geschiedenis in één bestand — handig
   voor een nieuwe telefoon of om helpers dezelfde instellingen te geven
 - **Licht en donker thema**, in te stellen via het tandwiel rechtsboven

@@ -52,18 +52,26 @@ veld waarin je de naam van dit toestel zet (bv. "Jan" of "Toog"). Die naam
 komt bij elke rekening te staan.
 
 
-2b. REKENINGEN DIE NOG MOETEN BETAALD WORDEN
---------------------------------------------
+2b. AFREKENEN, MET OF ZONDER NAAM
+---------------------------------
+Als je op "Afrekenen" tikt, vraagt de app nog of je er een naam aan wil
+geven (bv. "Tafel 3" of "Kaartersclub"). Dat is niet verplicht: tik
+gewoon op de grote knop "Afrekenen" en de rekening wordt bewaard zoals
+altijd. Vul je wél een naam in, dan zie je achteraf in de geschiedenis —
+en op het bord van de centrale iPad — van wie de rekening was. Namen die
+je al eens gebruikte staan als knopje klaar, dus meestal is het één tik.
+Verkeerd getikt? "Terug naar de teller" laat je rekening staan zoals ze
+was.
+
 Naast "Afrekenen" staat de knop "Later". Daarmee bewaar je de rekening
-als NOG TE BETALEN, met een naam erbij (bv. "Tafel 3" of "Kaartersclub").
-Namen die je al eens gebruikte, staan als knopje klaar — meestal is het
-dus één tik. Op een heel smal toestel zit dezelfde keuze onder het
-prullenbak-knopje ("Op de rekening laten staan").
+als NOG TE BETALEN, met dezelfde naamkeuze. Op een heel smal toestel zit
+die keuze onder het prullenbak-knopje ("Op de rekening laten staan").
 
 Op het tabblad Geschiedenis staat een rood bolletje met het aantal
 openstaande rekeningen. Daar vind je onder "Openstaand" de volledige
-lijst; één tik op "Betaald" en de rekening is afgevinkt. Vergist? In het
-"Logboek" klap je de rekening open en zet je ze terug op "nog te betalen".
+lijst; één tik op "Afrekenen" en de rekening is afgevinkt. Vergist? In
+het "Logboek" klap je de rekening open en zet je ze terug op "nog te
+betalen".
 
 BELANGRIJK over de cijfers: het dagtotaal is en blijft alles wat er die
 dag verkocht is, ook wat nog niet betaald is. Wat er nog openstaat, staat
@@ -82,10 +90,11 @@ Op de iPad:
   1. Tandwiel > "Centrale iPad" > "Deze iPad is de centrale iPad".
   2. Er verschijnt een code van 6 tekens. Die blijft 10 minuten geldig;
      met "Nieuwe code" vraag je er altijd een nieuwe op.
-  3. Er komt een extra tabblad "Bestellingen" bij. Daar zie je alles wat de
-     telefoons doorstuurden, per dag en met een piepje bij elke nieuwe. Eén
-     tik op "Betaald" en de rekening is afgepunt; ze blijft in de lijst staan
-     (zonder rode rand). Met de drie knopjes bovenaan kies je wat je ziet:
+  3. Er komt een extra tabblad "Bestellingen" bij. Daar zie je alles wat er
+     doorgestuurd is — ook wat je op de iPad zélf aanslaat — per dag en met
+     een piepje bij elke nieuwe van een telefoon. Eén tik op "Afrekenen" en
+     de rekening is afgepunt; ze blijft in de lijst staan (zonder rode rand,
+     met "Betaald ✓"). Met de drie knopjes bovenaan kies je wat je ziet:
      "Alles", "Nog te betalen" of "Betaald".
   4. De iPad mag gewoon in slaap vallen of zelfs uit staan; je moet niets
      instellen. Wat de telefoons doorsturen, blijft 14 dagen bewaard en komt
@@ -98,9 +107,9 @@ Op elke telefoon (één keer):
      "Verbind met de centrale iPad" tikken.
   3. Vanaf dan gaat elke rekening die je afrekent automatisch naar de iPad.
 
-Wat je ziet: bovenaan komt een bolletje. Groen = verbonden, oranje met een
-cijfer = er wachten nog rekeningen om verzonden te worden, rood = geen
-verbinding. Tik erop om de instellingen te openen.
+Wat je ziet: bovenaan, links van het tandwiel, komt een bolletje. Groen =
+verbonden, oranje met een cijfer = er wachten nog rekeningen om verzonden
+te worden, rood = geen verbinding. Tik erop om de instellingen te openen.
 
 GEEN INTERNET? Afrekenen blijft altijd gewoon werken. De rekening staat
 meteen in je eigen geschiedenis en wordt automatisch doorgestuurd zodra er
