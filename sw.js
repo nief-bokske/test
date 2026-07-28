@@ -1,7 +1,10 @@
 /* Service worker 't Nief Bokske — cache-first met netwerk-fallback.
-   Verhoog het versienummer in CACHE bij elke release, dan halen
-   geïnstalleerde apps de nieuwe bestanden op. */
-const CACHE = "bokske-v20";
+   Verhoog het versienummer in CACHE bij ELKE upload, ook bij een testupload:
+   een geïnstalleerde app kijkt enkel naar deze naam. Blijft ze gelijk, dan ziet
+   de browser geen nieuwe service worker, installeert niets, en blijft ze de
+   oude bestanden uit de cache tonen — ook na "Zoek update & herlaad".
+   Nooit verlagen: een nummer dat al eens op een toestel stond, is opgebruikt. */
+const CACHE = "bokske-v21";
 const ASSETS = [
   "./",
   "./index.html",
