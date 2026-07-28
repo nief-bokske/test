@@ -107,6 +107,12 @@ Op elke telefoon (één keer):
      "Verbind met de centrale iPad" tikken.
   3. Vanaf dan gaat elke rekening die je afrekent automatisch naar de iPad.
 
+BETAALD ZETTEN WERKT IN BEIDE RICHTINGEN. Punt je een openstaande rekening
+af op je eigen telefoon (Geschiedenis > Openstaand > "Afrekenen"), dan
+verdwijnt ze ook op de iPad uit "Nog te betalen" — en punt de iPad ze af,
+dan volgt jouw telefoon. Ook zonder internet: je telefoon onthoudt het en
+stuurt de juiste stand door zodra er weer verbinding is.
+
 Wat je ziet: bovenaan, links van het tandwiel, komt een bolletje. Groen =
 verbonden, oranje met een cijfer = er wachten nog rekeningen om verzonden
 te worden, rood = geen verbinding. Tik erop om de instellingen te openen.
