@@ -73,6 +73,12 @@ lijst; één tik op "Afrekenen" en de rekening is afgevinkt. Vergist? In
 het "Logboek" klap je de rekening open en zet je ze terug op "nog te
 betalen".
 
+DAGEN DICHTKLAPPEN. Zowel in het "Logboek" als op het tabblad
+"Bestellingen" kan je op een dag tikken om die dag dicht te klappen; het
+dagtotaal blijft dan staan. Met "Alles dichtklappen" rechtsboven doe je ze
+in één keer allemaal, en met dezelfde knop weer open. Bij het herstarten
+van de app staat alles opnieuw open, dus je kan niets "kwijt" spelen.
+
 BELANGRIJK over de cijfers: het dagtotaal is en blijft alles wat er die
 dag verkocht is, ook wat nog niet betaald is. Wat er nog openstaat, staat
 er als een apart rood bedrag bij ("open € 13,80"). Zo verandert een dag
